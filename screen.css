@@ -7,7 +7,7 @@ h1 {
   font-family: 'Luckiest Guy', cursive;
   color :white;
   text-align: center;
-  font-size: 75px;
+  font-size: 70px;
 }
 
 th {
@@ -16,7 +16,7 @@ th {
   border: 3px solid black;
   font-size: 22px;
   padding: 10px;
-  height: 100px;
+  height: 80px;
   text-align: center;
 }
 
